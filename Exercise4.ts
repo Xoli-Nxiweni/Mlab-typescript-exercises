@@ -5,8 +5,7 @@ class Person{
     
 
     PersonName = () : string =>{
-        let name = this.name;
-        return name;
+        return this.name;
     }
 
     //2
