@@ -27,7 +27,7 @@ class Person{
 }
 //1
 let person = new Person()
-console.log(person.name);
+console.log(person.PersonName());
 
 //2
 console.log(person.getAge());
